@@ -17,10 +17,10 @@
 </head>
 <body>
 
-	<div class="main">
+	<div class="main" style="margin:0 auto">
 	
 	
-		<table>
+		<table class="gameTable">
 			<tr>
 				<td><div class="cow"><img class="shadowed" src='assets/img/cow.png' alt="cow"></img></div></td>
 				<td><div class="cat"><img class="shadowed" src='assets/img/cat.png' alt="cat"></img></div></td>

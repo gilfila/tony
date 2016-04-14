@@ -7,6 +7,8 @@ $(window).scroll(function(e) {
 
 });
 
+
+
 $(function() { // run when the DOM is ready
 
 	var cowAudioElement = document.createElement('audio');
@@ -29,42 +31,52 @@ $(function() { // run when the DOM is ready
 	owlAudioElement.setAttribute('src', 'assets/audio/owl.wav');
 	var roosterAudioElement = document.createElement('audio');
 	roosterAudioElement.setAttribute('src', 'assets/audio/rooster.mp3');
+	
 
 	$('.cow').on('click touchstart', function() {
+		stopAllAudio();
 		cowAudioElement.play();
 	});
 	$('.cat').on('click touchstart', function() {
+		stopAllAudio();
 		catAudioElement.play();
 	});
 	$('.bird').on('click touchstart', function() {
+		stopAllAudio();
 		birdAudioElement.play();
 	});
 	$('.cricket').on('click touchstart', function() {
+		stopAllAudio();
 		cricketAudioElement.play();
 	});
 	$('.dog').on('click touchstart', function() {
+		stopAllAudio();
 		dogAudioElement.play();
 	});
 	$('.duck').on('click touchstart', function() {
+		stopAllAudio();
 		duckAudioElement.play();
 	});
 	$('.elephant').on('click touchstart', function() {
+		stopAllAudio();
 		elephantAudioElement.play();
 	});
 	$('.goose').on('click touchstart', function() {
+		stopAllAudio();
 		gooseAudioElement.play();
 	});
 	$('.owl').on('click touchstart', function() {
+		stopAllAudio();
 		owlAudioElement.play();
 	});
 	$('.rooster').on('click touchstart', function() {
+		stopAllAudio();
 		roosterAudioElement.play();
 	});
 
 	$(".shadowed").on('mousedown touchstart', function() { // use a class, since your ID gets
 		// mangled
 		$(this).toggleClass("lowered"); // add the class to the clicked element
-		$("moo").play();
 	});
 
 	$(".shadowed").on('mouseup touchend', function() { // use a class, since your ID gets

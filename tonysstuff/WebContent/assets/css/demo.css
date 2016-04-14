@@ -323,6 +323,8 @@
     line-height: 40px;
 }
 .shadowed {
+	height: 150px;
+	width: 150px;
     -webkit-filter: drop-shadow(12px 12px 25px rgba(0,0,0,0.5));
     filter: url(#drop-shadow);
     -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
@@ -336,7 +338,12 @@
 	height: 130px;
 	width: 130px;
 }
-img {
-	height: 150px;
-	width: 150px;
+
+.gameTable{
+	margin:40px;;
 }
+.gameTable td{
+	padding: 20px;
+	
+}
+
