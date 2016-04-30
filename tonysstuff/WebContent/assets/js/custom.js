@@ -34,43 +34,43 @@ $(function() { // run when the DOM is ready
 	
 
 	$('.cow').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		cowAudioElement.play();
 	});
 	$('.cat').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		catAudioElement.play();
 	});
 	$('.bird').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		birdAudioElement.play();
 	});
 	$('.cricket').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		cricketAudioElement.play();
 	});
 	$('.dog').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		dogAudioElement.play();
 	});
 	$('.duck').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		duckAudioElement.play();
 	});
 	$('.elephant').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		elephantAudioElement.play();
 	});
 	$('.goose').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		gooseAudioElement.play();
 	});
 	$('.owl').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		owlAudioElement.play();
 	});
 	$('.rooster').on('click touchstart', function() {
-		stopAllAudio();
+//		stopAllAudio();
 		roosterAudioElement.play();
 	});
 
