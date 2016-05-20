@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:security="http://sf.icptp.springextensions/schema/security"
+	xmlns:webservice="http://sf.icptp.springextensions/schema/webservice"
+	xmlns:database="http://sf.icptp.springextensions/schema/database"
+	xmlns:mvc="http://www.springframework.org/schema/mvc" 
+	xmlns:cache="http://www.springframework.org/schema/cache"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+       	http://sf.icptp.springextensions/schema/webservice
+       	http://sf.icptp.springextensions/schema/webservice/webservice.xsd
+       	http://sf.icptp.springextensions/schema/security
+       	http://sf.icptp.springextensions/schema/security/security.xsd
+       	http://www.springframework.org/schema/mvc
+       	http://www.springframework.org/schema/mvc/spring-mvc-3.1.xsd
+       	http://www.springframework.org/schema/cache
+       	http://www.springframework.org/schema/cache/spring-cache.xsd
+       	http://sf.icptp.springextensions/schema/database 
+		http://sf.icptp.springextensions/schema/database/datasource.xsd">
+
+	<!-- JSR-303 support will be detected on classpath and enabled automatically. -->
+	<mvc:annotation-driven />
+	
+	
+	<beans profile="default">
+
+		<!-- The LoggingMappingExceptionResolver bean catches runtime exceptions 
+			that would otherwise escape the container, and logs the exception at a level 
+			of ERROR. It can also be used to catch application specific exceptions that 
+			don't require additional business logic to be performed prior to the error 
+			screen being displayed. If business logic needs to be performed prior to 
+			the display of the error screen, a custom method in the controller, annotated 
+			with the annotation @ExceptionHandler, must be used to catch the exception, 
+			instead of using LoggingMappingExceptionResolver. -->
+		
+
+		<!-- The SecurityContextFilter is required for metrics logging. -->
+	
+
+	</beans>
+
+	<beans profile="dev-int">
+		<!-- Environment specific bean definitions go here -->
+	</beans>
+
+	<beans profile="system">
+		<!-- Environment specific bean definitions go here -->
+	</beans>
+
+	<beans profile="performance">
+		<!-- Environment specific bean definitions go here -->
+	</beans>
+
+	<beans profile="pre-production">
+		<!-- Environment specific bean definitions go here -->
+	</beans>
+
+	<beans profile="production">
+		<!-- Environment specific bean definitions go here -->
+	</beans>
+
+</beans>
