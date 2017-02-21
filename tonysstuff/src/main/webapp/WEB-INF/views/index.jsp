@@ -54,7 +54,7 @@
 									data-toggle="dropdown">Projects <b class="caret"></b></a>
 									<ul class="dropdown-menu">
 										<li><a href="clickNSay">Click N Say</a></li>
-										<li><a href="#">Another action</a></li>
+										<li><a href="photos">Colleen Site</a></li>
 										<li><a href="#">Something</a></li>
 										<li><a href="#">Another action</a></li>
 										<li><a href="#">Something</a></li>
@@ -121,6 +121,7 @@
 			</div>
 			<!-- end container -->
 		</div>
+	</div>
 </body>
 
 <script src="/resources/jquery/jquery-1.10.2.js" type="text/javascript"></script>

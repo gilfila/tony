@@ -20,15 +20,26 @@ import com.jits.core.Confirmation;
 @Controller
 public class JitsController {
 
-	@RequestMapping(value="/", method=RequestMethod.GET)
+	@RequestMapping(value="/tony", method=RequestMethod.GET)
 	public String home(HttpServletResponse response) throws IOException{
 		return "index";
 
 	}
-	
+
 	@RequestMapping(value="/clickNSay", method=RequestMethod.GET)
 	public String clickNSay(HttpServletResponse response) throws IOException{
 		return "clickNSay";
+
+	}
+//	@RequestMapping(value="/", method=RequestMethod.GET)
+//	public String photo(HttpServletResponse response) throws IOException{
+//		return "gilfillanphotography";
+//
+//	}
+	
+	@RequestMapping(value="/", method=RequestMethod.GET)
+	public String photo(HttpServletResponse response) throws IOException{
+		return "gilfillanPhoto";
 
 	}
 	@RequestMapping(value="/downloadPDF", method=RequestMethod.GET)
