@@ -538,14 +538,11 @@ jQuery(document).ready(function() {
 	
 });
 
-function myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
-        x.className += " responsive";
-    } else {
-        x.className = "topnav";
-    }
+
+function jsLink(url){
+	location='#' + url;
 }
+
 
 // ===== Social Media Share Pop-up ===== //
 function facebookShare(url, winWidth, winHeight) {
@@ -577,3 +574,4 @@ function linkedinShare(url, winWidth, winHeight) {
 	var winLeft = (screen.width / 2) - (winWidth / 2);
 	window.open('https://www.linkedin.com/shareArticle?mini=true&url=' + url, 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight);
 }
+

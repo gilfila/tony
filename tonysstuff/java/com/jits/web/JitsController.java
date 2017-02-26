@@ -22,11 +22,11 @@ public class JitsController {
 
 	@RequestMapping(value="/tony", method=RequestMethod.GET)
 	public String home(HttpServletResponse response) throws IOException{
-		return "index";
+		return "sampleindex";
 
 	}
 
-	@RequestMapping(value="/clickNSay", method=RequestMethod.GET)
+	@RequestMapping(value="clickNSay", method=RequestMethod.GET)
 	public String clickNSay(HttpServletResponse response) throws IOException{
 		return "clickNSay";
 

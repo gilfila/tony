@@ -5,12 +5,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <title>Tony's Page</title>
 
-<link href="/resources/bootstrap3/css/bootstrap.css" rel="stylesheet" />
-<link href="/resources/assets/css/get-shit-done.css" rel="stylesheet" />
-<link href="/resources/assets/css/demo.css" rel="stylesheet" />
+<link href="../../resources/bootstrap3/css/bootstrap.css" rel="stylesheet" />
+<link href="../../resources/assets/css/get-shit-done.css" rel="stylesheet" />
+<link href="../../resources/assets/css/demo.css" rel="stylesheet" />
 
 <!--     This is a test     -->
-<link href="/resources/bootstrap3/css/font-awesome.css" rel="stylesheet">
+<link href="../../resources/bootstrap3/css/font-awesome.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Grand+Hotel'
 	rel='stylesheet' type='text/css'>
 
@@ -95,7 +95,7 @@
 					<div class="space"></div>
 					<div class="row">
 						<div class="col-md-7">
-							<img src="/resources/assets/img/biggs.jpg" alt="Rounded Image"
+							<img src="../../resources/assets/img/biggs.jpg" alt="Rounded Image"
 								class="img-rounded">
 						</div>
 						<div class="col-md-5">
@@ -124,15 +124,15 @@
 	</div>
 </body>
 
-<script src="/resources/jquery/jquery-1.10.2.js" type="text/javascript"></script>
-<script src="/resources/assets/js/jquery-ui-1.10.4.custom.min.js"
+<script src="../../resources/jquery/jquery-1.10.2.js" type="text/javascript"></script>
+<script src="../../resources/assets/js/jquery-ui-1.10.4.custom.min.js"
 	type="text/javascript"></script>
 
-<script src="/resources/bootstrap3/js/bootstrap.js" type="text/javascript"></script>
-<script src="/resources/assets/js/gsdk-checkbox.js"></script>
-<script src="/resources/assets/js/gsdk-radio.js"></script>
-<script src="/resources/assets/js/gsdk-bootstrapswitch.js"></script>
-<script src="/resources/assets/js/get-shit-done.js"></script>
+<script src="../../resources/bootstrap3/js/bootstrap.js" type="text/javascript"></script>
+<script src="../../resources/assets/js/gsdk-checkbox.js"></script>
+<script src="../../resources/assets/js/gsdk-radio.js"></script>
+<script src="../../resources/assets/js/gsdk-bootstrapswitch.js"></script>
+<script src="../../resources/assets/js/get-shit-done.js"></script>
 
-<script src="/resources/assets/js/custom.js"></script>
+<script src="../../resources/assets/js/custom.js"></script>
 </html>

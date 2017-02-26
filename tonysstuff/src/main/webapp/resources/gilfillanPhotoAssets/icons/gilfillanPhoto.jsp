@@ -6,73 +6,73 @@
 <title>Colleen Gilfillan Photography</title>
 
 <!--Bootstrap Element and Grid System-->
-<link href="/resources/gilfillanPhotoAssets/css/bootstrap.css"
+<link href="resources/gilfillanPhotoAssets/css/bootstrap.css"
 	rel="stylesheet" type="text/css">
 	
-<link href="/resources/gilfillanPhotoAssets/css/main.css"
+<link href="resources/gilfillanPhotoAssets/css/main.css"
 	rel="stylesheet" type="text/css">
 
 <!--jQuery UI CSS-->
-<link href="/resources/gilfillanPhotoAssets/css/jquery-ui.css"
+<link href="resources/gilfillanPhotoAssets/css/jquery-ui.css"
 	rel="stylesheet" type="text/css">
 
 <!--Main Elements CSS-->
-<link href="/resources/gilfillanPhotoAssets/css/style.css"
+<link href="resources/gilfillanPhotoAssets/css/style.css"
 	rel="stylesheet" type="text/css">
 
 <!--Font Awesome-->
-<link href="/resources/gilfillanPhotoAssets/fonts/font-awesome-4.3.0/css/font-awesome.min.css"
+<link href="resources/gilfillanPhotoAssets/fonts/font-awesome-4.3.0/css/font-awesome.min.css"
 	rel="stylesheet" type="text/css">
 
 <!-- Core GalleryJack CSS Files -->
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/css/cj_gallery.css?v=1"
+	href="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/css/cj_gallery.css?v=1"
 	rel="stylesheet" type="text/css">
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/css/cj_gallery_video.css?v=1"
+	href="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/css/cj_gallery_video.css?v=1"
 	rel="stylesheet" type="text/css">
-<!--[if lte IE 8 ]><link rel="stylesheet" type="text/css" href="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/css/cj_gallery_ie_8.css?v=1" /><![endif]-->
-<!--[if lte IE 7 ]><link rel="stylesheet" type="text/css" href="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/css/cj_gallery_ie_7.css?v=1" /><![endif]-->
+<!--[if lte IE 8 ]><link rel="stylesheet" type="text/css" href="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/css/cj_gallery_ie_8.css?v=1" /><![endif]-->
+<!--[if lte IE 7 ]><link rel="stylesheet" type="text/css" href="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/css/cj_gallery_ie_7.css?v=1" /><![endif]-->
 
 <!--OWL Carousel CSS-->
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/owl.carousel.2.0.0/assets/owl.carousel.css"
+	href="resources/gilfillanPhotoAssets/bower_components/owl.carousel.2.0.0/assets/owl.carousel.css"
 	rel="stylesheet" type="text/css">
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/owl.carousel.2.0.0/assets/owl.theme.default.css"
+	href="resources/gilfillanPhotoAssets/bower_components/owl.carousel.2.0.0/assets/owl.theme.default.css"
 	rel="stylesheet" type="text/css">
 
 <!--Megafolio CSS-->
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/megafolio/css/settings.css"
+	href="resources/gilfillanPhotoAssets/bower_components/megafolio/css/settings.css"
 	rel="stylesheet" type="text/css">
 
 <!--FancyBox CSS-->
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/fancybox/jquery.fancybox.css?v=2.1.5"
+	href="resources/gilfillanPhotoAssets/bower_components/fancybox/jquery.fancybox.css?v=2.1.5"
 	rel="stylesheet" type="text/css">
 
 <!--FlexSlider CSS-->
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/FlexSlider/flexslider.css"
+	href="resources/gilfillanPhotoAssets/bower_components/FlexSlider/flexslider.css"
 	rel="stylesheet" type="text/css">
 
 <!--jQuery Fullpage CSS-->
-<link href="/resources/gilfillanPhotoAssets/css/jquery.fullPage.css"
+<link href="resources/gilfillanPhotoAssets/css/jquery.fullPage.css"
 	rel="stylesheet" type="text/css">
 
 <!--Tootips CSS-->
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/tooltipster/css/tooltipster.css"
+	href="resources/gilfillanPhotoAssets/bower_components/tooltipster/css/tooltipster.css"
 	rel="stylesheet" type="text/css">
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/tooltipster/css/themes/custom-theme01.css"
+	href="resources/gilfillanPhotoAssets/bower_components/tooltipster/css/themes/custom-theme01.css"
 	rel="stylesheet" type="text/css">
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/tooltipster/css/themes/custom-theme02.css"
+	href="resources/gilfillanPhotoAssets/bower_components/tooltipster/css/themes/custom-theme02.css"
 	rel="stylesheet" type="text/css">
 <link
-	href="/resources/gilfillanPhotoAssets/bower_components/tooltipster/css/themes/custom-theme03.css"
+	href="resources/gilfillanPhotoAssets/bower_components/tooltipster/css/themes/custom-theme03.css"
 	rel="stylesheet" type="text/css">
 
 <!--Google Fonts-->
@@ -111,7 +111,7 @@
 		 <!--Logo Start-->
 				<div class="logo">
 				<a href="#home"><img
-					src="/resources/gilfillanPhotoAssets/images/logo.png" alt="logo" /></a>
+					src="resources/gilfillanPhotoAssets/images/logo.png" alt="logo" /></a>
 			</div>
 			<!--Logo End-->
 			<div class="menu-open">
@@ -159,7 +159,7 @@
 					<li>
 						<div class="home-slide-overlay" data-bg-color="#1e1e1e"
 							data-opacity="0.0"></div> <img
-						src="/resources/gilfillanPhotoAssets/colleensPics/frontPageSlider/img3.jpg"
+						src="resources/gilfillanPhotoAssets/colleensPics/frontPageSlider/img3.jpg"
 						alt="slide image" />
 
 
@@ -171,7 +171,7 @@
 					<li>
 						<div class="home-slide-overlay" data-bg-color="#1e1e1e"
 							data-opacity="0.0"></div> <img
-						src="/resources/gilfillanPhotoAssets/colleensPics/frontPageSlider/img2.jpg"
+						src="resources/gilfillanPhotoAssets/colleensPics/frontPageSlider/img2.jpg"
 						alt="slide image" />
 
 
@@ -183,7 +183,7 @@
 					<li>
 						<div class="home-slide-overlay" data-bg-color="#1e1e1e"
 							data-opacity="0.0"></div> <img
-						src="/resources/gilfillanPhotoAssets/colleensPics/frontPageSlider/img1.jpg"
+						src="resources/gilfillanPhotoAssets/colleensPics/frontPageSlider/img1.jpg"
 						alt="slide image" />
 
 
@@ -194,7 +194,7 @@
 					<!-- Slide 4 Start
                     <li>
 						<div class="home-slide-overlay" data-bg-color="#1e1e1e" data-opacity="0.3"></div>
-						<img src="/resources/gilfillanPhotoAssets/images/upload/home-slider08.jpg" alt="slide image" />
+						<img src="resources/gilfillanPhotoAssets/images/upload/home-slider08.jpg" alt="slide image" />
                         
                         
 						<div class="flex-caption">
@@ -269,7 +269,7 @@
 
 		<!--Featured Area Start-->
 		<div class="featured-area fit-height"
-			data-image-src="/resources/gilfillanPhotoAssets/colleensPics/frontPageSlider/img1.jpg">
+			data-image-src="resources/gilfillanPhotoAssets/colleensPics/frontPageSlider/img1.jpg">
 			<div class="featured-area-overlay">
 				<div class="featured-area-caption">
 					<div class="container">
@@ -342,12 +342,12 @@
 				<!--Gallery Item 1 Start-->
 				<div class="mega-entry cat-all cat-three cat-four cat-two"
 					id="entry-1"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set01-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set01-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set01-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set01-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Quisque sapien neque</h3>
 						</div>
@@ -360,12 +360,12 @@
 				<!--Gallery Item 2 Start-->
 				<div class="mega-entry cat-all cat-one cat-three cat-four"
 					id="entry-2"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set02-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set02-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set02-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set02-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Suspendisse purus</h3>
 						</div>
@@ -378,12 +378,12 @@
 				<!--Gallery Item 3 Start-->
 				<div class="mega-entry cat-all cat-two cat-four cat-five"
 					id="entry-3"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set03-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set03-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set03-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set03-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Curabitur</h3>
 						</div>
@@ -396,12 +396,12 @@
 				<!--Gallery Item 4 Start-->
 				<div class="mega-entry cat-all cat-one cat-two cat-five"
 					id="entry-4"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set04-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set04-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set04-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set04-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Donec tellus</h3>
 						</div>
@@ -413,12 +413,12 @@
 
 				<!--Gallery Item 5 Start-->
 				<div class="mega-entry cat-all cat-three cat-five" id="entry-5"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set05-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set05-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set05-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set05-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Sed fermentum</h3>
 						</div>
@@ -431,12 +431,12 @@
 				<!--Gallery Item 6 Start-->
 				<div class="mega-entry cat-all cat-two cat-five cat-three"
 					id="entry-6"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set06-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set06-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set06-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set06-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Nullam fringilla</h3>
 						</div>
@@ -448,12 +448,12 @@
 
 				<!--Gallery Item 7 Start-->
 				<div class="mega-entry cat-all cat-one cat-four" id="entry-7"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set07-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set07-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set07-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set07-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Aenean tortor</h3>
 						</div>
@@ -466,12 +466,12 @@
 				<!--Gallery Item 8 Start-->
 				<div class="mega-entry cat-all cat-three cat-four cat-five"
 					id="entry-8"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set08-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set08-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set08-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set08-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Fuisque dapien meque</h3>
 						</div>
@@ -483,12 +483,12 @@
 
 				<!--Gallery Item 9 Start-->
 				<div class="mega-entry cat-all cat-one cat-three" id="entry-9"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set09-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set09-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set09-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set09-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Quspendisse curus</h3>
 						</div>
@@ -500,12 +500,12 @@
 
 				<!--Gallery Item 10 Start-->
 				<div class="mega-entry cat-all cat-two cat-four" id="entry-10"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set10-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set10-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set10-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set10-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Gurabitur</h3>
 						</div>
@@ -517,12 +517,12 @@
 
 				<!--Gallery Item 11 Start-->
 				<div class="mega-entry cat-all cat-one cat-two" id="entry-11"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set11-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set11-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/portfolio/port1.jpg">
+						href="resources/gilfillanPhotoAssets/images/portfolio/port1.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Tonec cellus</h3>
 						</div>
@@ -534,12 +534,12 @@
 
 				<!--Gallery Item 12 Start-->
 				<div class="mega-entry cat-all cat-three cat-five" id="entry-12"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set12-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set12-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/portfolio/port1.jpg">
+						href="resources/gilfillanPhotoAssets/images/portfolio/port1.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Set germentum</h3>
 						</div>
@@ -552,12 +552,12 @@
 				<!--Gallery Item 13 Start-->
 				<div class="mega-entry cat-all cat-one cat-two cat-five"
 					id="entry-13"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set13-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set13-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set13-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set13-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Pullam fringilla</h3>
 						</div>
@@ -569,12 +569,12 @@
 
 				<!--Gallery Item 14 Start-->
 				<div class="mega-entry cat-all cat-one cat-four" id="entry-14"
-					data-src="/resources/gilfillanPhotoAssets/images/upload/gallery-set14-image01-thumb.jpg"
+					data-src="resources/gilfillanPhotoAssets/images/upload/gallery-set14-image01-thumb.jpg"
 					data-width="800" data-height="600">
 
 					<!--The Container For The Hover Effect-->
 					<a class="fancybox" data-fancybox-group="home-gallery"
-						href="/resources/gilfillanPhotoAssets/images/upload/gallery-set14-image01.jpg">
+						href="resources/gilfillanPhotoAssets/images/upload/gallery-set14-image01.jpg">
 						<div class="overlay-hover xcross-hover">
 							<h3 class="text-hover">Genean portor</h3>
 						</div>
@@ -614,7 +614,7 @@
 						<div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
 							<div class="box footer-logo animate-fadeIn">
 								<a href="#"><img
-									src="/resources/gilfillanPhotoAssets/images/logo-footer.png"
+									src="resources/gilfillanPhotoAssets/images/logo-footer.png"
 									alt="logo footer" /></a>
 							</div>
 						</div>
@@ -672,85 +672,85 @@
 
 	<!--jQuery files-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/vendor/jquery-1.11.1.min.js"></script>
+		src="resources/gilfillanPhotoAssets/js/vendor/jquery-1.11.1.min.js"></script>
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/vendor/modernizr.custom.js"></script>
+		src="resources/gilfillanPhotoAssets/js/vendor/modernizr.custom.js"></script>
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/vendor/jquery.easings.min.js"></script>
+		src="resources/gilfillanPhotoAssets/js/vendor/jquery.easings.min.js"></script>
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/classie.js"></script>
+		src="resources/gilfillanPhotoAssets/js/classie.js"></script>
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/vendor/jquery-ui.min.js"></script>
+		src="resources/gilfillanPhotoAssets/js/vendor/jquery-ui.min.js"></script>
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/menu.js"></script>
+		src="resources/gilfillanPhotoAssets/js/menu.js"></script>
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/jquery.viewport.js"></script>
+		src="resources/gilfillanPhotoAssets/js/jquery.viewport.js"></script>
 
 	<!--jQuery Retina-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/retina.js"></script>
+		src="resources/gilfillanPhotoAssets/js/retina.js"></script>
 
 	<!-- GalleryJack Scripts -->
 	<script
-		src="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/jquery.address-1.5.min.js"
+		src="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/jquery.address-1.5.min.js"
 		type="text/javascript"></script>
 	<script
-		src="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-galleryjack-core.js?v=1"
+		src="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-galleryjack-core.js?v=1"
 		type="text/javascript"></script>
 	<script
-		src="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-top-right-buttons.min.js?v=1"
+		src="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-top-right-buttons.min.js?v=1"
 		type="text/javascript"></script>
 	<script
-		src="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-music-player.min.js?v=1"
+		src="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-music-player.min.js?v=1"
 		type="text/javascript"></script>
 	<script
-		src="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-contact-form.min.js?v=1"
+		src="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-contact-form.min.js?v=1"
 		type="text/javascript"></script>
 	<script
-		src="/resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-html-video.min.js?v=1"
+		src="resources/gilfillanPhotoAssets/bower_components/galleryjack_rebooted/js/cj-html-video.min.js?v=1"
 		type="text/javascript"></script>
 
 	<!--jQuery OWL Carousel-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/bower_components/owl.carousel.2.0.0/owl.carousel.min.js"></script>
+		src="resources/gilfillanPhotoAssets/bower_components/owl.carousel.2.0.0/owl.carousel.min.js"></script>
 
 	<!--jQuery Megafolio-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/bower_components/megafolio/js/jquery.themepunch.tools.min.js"></script>
+		src="resources/gilfillanPhotoAssets/bower_components/megafolio/js/jquery.themepunch.tools.min.js"></script>
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/bower_components/megafolio/js/jquery.themepunch.megafoliopro.js"></script>
+		src="resources/gilfillanPhotoAssets/bower_components/megafolio/js/jquery.themepunch.megafoliopro.js"></script>
 
 	<!--jQuery FancyBox-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/bower_components/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+		src="resources/gilfillanPhotoAssets/bower_components/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
 
 	<!--jQuery Isotope-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/isotope.pkgd.min.js"></script>
+		src="resources/gilfillanPhotoAssets/js/isotope.pkgd.min.js"></script>
 
 	<!--jQuery Imageloaded-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/imagesloaded.pkgd.min.js"></script>
+		src="resources/gilfillanPhotoAssets/js/imagesloaded.pkgd.min.js"></script>
 
 	<!--jQuery FlexSlider-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/bower_components/FlexSlider/jquery.flexslider.js"></script>
+		src="resources/gilfillanPhotoAssets/bower_components/FlexSlider/jquery.flexslider.js"></script>
 
 	<!--jQuery Fullpage-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/jquery.fullPage.min.js"></script>
+		src="resources/gilfillanPhotoAssets/js/jquery.fullPage.min.js"></script>
 
 	<!--jQuery Tooltips-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/bower_components/tooltipster/js/jquery.tooltipster.min.js"></script>
+		src="resources/gilfillanPhotoAssets/bower_components/tooltipster/js/jquery.tooltipster.min.js"></script>
 
 	<!--Placeholder js file-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/placeholder.js"></script>
+		src="resources/gilfillanPhotoAssets/js/placeholder.js"></script>
 
 	<!--Custom js file-->
 	<script type="text/javascript"
-		src="/resources/gilfillanPhotoAssets/js/custom.js"></script>
+		src="resources/gilfillanPhotoAssets/js/custom.js"></script>
 
 </body>
 </html>
